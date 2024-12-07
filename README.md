@@ -2,6 +2,10 @@
 
 一个简单的文件批量重命名工具，支持保存重命名历史记录。
 
+![alt text](static/image.png)
+![alt text](static/image-1.png)
+![alt text](static/image-2.png)
+
 ## 功能特点
 
 - 批量重命名文件
