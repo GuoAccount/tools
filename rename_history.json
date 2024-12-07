@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2024-12-07 16:43:11",
+    "directory": "/Users/guoshunshun/Downloads/Documents",
+    "old_suffix": ".txt1",
+    "new_suffix": ".txt",
+    "operation": "replace",
+    "success_count": 10,
+    "total_files": 10
+  },
+  {
+    "timestamp": "2024-12-07 16:29:54",
+    "directory": "/Users/guoshunshun/Downloads/Documents",
+    "old_suffix": ".txt",
+    "new_suffix": ".txt1",
+    "operation": "replace",
+    "success_count": 10,
+    "total_files": 10
+  },
+  {
+    "timestamp": "2024-12-07 16:13:07",
+    "directory": "/Users/guoshunshun/Downloads/Documents",
+    "old_suffix": ".txt",
+    "new_suffix": "",
+    "operation": "remove",
+    "success_count": 1,
+    "total_files": 1
+  }
+]
